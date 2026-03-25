@@ -42,17 +42,21 @@ Simulate revenue impact of a 10% increase in occupancy
 💰 Pricing Strategy
 
 •	Lower ticket prices → higher demand and occupancy 
+
 •	Premium pricing → higher revenue per ticket but lower volume 
+
 •	Volume-based strategy outperformed premium pricing 
 
 📈 Demand Trends
 
 •	Rapid booking growth followed by a stabilization phase 
+
 •	Secondary demand increase indicates seasonality/peak travel periods 
 
 🚀 Revenue Simulation
 
 A 10% increase in occupancy rate results in significant revenue growth:
+
 •	SU9: +₹500M+ 
 •	763: +₹430M+ 
 •	773: +₹340M+ 
