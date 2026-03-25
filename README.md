@@ -11,9 +11,13 @@ Evaluate occupancy rates (load factor) and aircraft utilization
 Understand the impact of pricing on demand
 Identify high-performing vs underperforming aircraft
 Simulate revenue impact of a 10% increase in occupancy
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
+**Used in this project**
 
+- ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+- ![Jupyter Notebook](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 📦 Airline-Data-Analysis
  ┣ 📜 Data Analysis -Airlines.ipynb
  ┣ 📄 README.md
