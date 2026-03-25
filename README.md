@@ -1,67 +1,72 @@
 📊 Airline Revenue & Occupancy Optimization Analysis
+📋 Project Overview
 
-🚀 Project Overview
+An in-depth data analysis project focused on evaluating airline operational and booking data to uncover actionable insights. This project examines revenue performance, occupancy (load factor), and pricing strategies to support data-driven decision-making for revenue optimization and efficient fleet utilization.
 
-This project analyzes airline operational and booking data to uncover insights related to revenue performance, occupancy (load factor), and pricing strategies.
+🔍 Key Areas Analyzed
 
-The goal is to identify opportunities for revenue optimization, better fleet utilization, and demand-driven pricing decisions in the airline industry.
+Revenue Performance Analysis:
+Evaluate total revenue and average ticket value across different aircraft to identify high-performing assets.
 
-🎯 Objectives
+Occupancy (Load Factor) Analysis:
+Measure seat utilization across aircraft to detect underutilized capacity and operational inefficiencies.
 
-Analyze total revenue and average ticket value across aircraft
-Evaluate occupancy rates (load factor) and aircraft utilization
-Understand the impact of pricing on demand
-Identify high-performing vs underperforming aircraft
-Simulate revenue impact of a 10% increase in occupancy
+Pricing Strategy Evaluation:
+Analyze the relationship between ticket pricing and demand to understand pricing elasticity and its impact on revenue.
 
-## 🛠️ Tech Stack
+Aircraft Performance Comparison:
+Identify high-performing vs underperforming aircraft based on revenue, occupancy, and pricing patterns.
 
-**Used in this project**
+Revenue Simulation (Scenario Modeling):
+Model the financial impact of a 10% increase in occupancy rates to estimate potential revenue growth.
 
-- ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-- ![Jupyter Notebook](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+🛠️ Tech Stack
 
-📊 Key Metrics 
+Used in this project
 
-•	Total Revenue 
-•	Average Revenue per Ticket Occupancy Rate (Load Factor)
-•	Revenue per Aircraft 
-•	Fare Class Pricing (Business vs Economy) 
-
+Python
+SQL
+Jupyter Notebook
+📊 Key Metrics
+Total Revenue
+Average Revenue per Ticket
+Occupancy Rate (Load Factor)
+Revenue per Aircraft
+Fare Class Pricing (Business vs Economy)
 🔍 Key Insights
 
-✈️ Revenue & Performance
+Revenue & Performance:
 
-•	SU9 aircraft generated the highest revenue (~₹5.1B) driven by high ticket volume and competitive pricing 
-•	Aircraft 319 had the highest average ticket value (~₹51K) but lower demand 
+SU9 aircraft generated the highest revenue (~₹5.1B), driven by high ticket volume and competitive pricing
+Aircraft 319 achieved the highest average ticket value (~₹51K) but experienced lower demand levels
 
-📉 Occupancy (Load Factor)
+Occupancy (Load Factor):
 
-•	Highest occupancy: 773 (~66%) 
-•	Lowest occupancy: CR2 (~43%) 
-•	Low occupancy aircraft indicate underutilization and pricing inefficiencies 
+Highest occupancy: 773 (~66%)
+Lowest occupancy: CR2 (~43%)
+Lower occupancy levels indicate underutilization and pricing inefficiencies
 
-💰 Pricing Strategy
+Pricing Strategy Insights:
 
-•	Lower ticket prices → higher demand and occupancy 
+Lower ticket prices are associated with higher demand and improved occupancy
+Premium pricing increases revenue per ticket but reduces volume
+A volume-based pricing strategy outperforms premium pricing in total revenue generation
 
-•	Premium pricing → higher revenue per ticket but lower volume 
+Demand Trends:
 
-•	Volume-based strategy outperformed premium pricing 
+Booking patterns show rapid initial growth followed by stabilization
+Secondary demand increase suggests seasonality and peak travel periods
+🚀 Revenue Impact (Scenario Analysis)
 
-📈 Demand Trends
+A simulated 10% increase in occupancy rates demonstrates significant revenue potential:
 
-•	Rapid booking growth followed by a stabilization phase 
+SU9: +₹500M+
+763: +₹430M+
+773: +₹340M+
 
-•	Secondary demand increase indicates seasonality/peak travel periods 
+👉 Even small improvements in load factor can lead to substantial revenue gains
 
-🚀 Revenue Simulation
+📂 Dataset
 
-A 10% increase in occupancy rate results in significant revenue growth:
-
-•	SU9: +₹500M+ 
-
-•	763: +₹430M+ 
-
-•	773: +₹340M+ 
+The dataset contains airline operational and booking data, including:
+Aircraft codes, seat capacity, ticket prices, booking records, revenue, and fare class details.
