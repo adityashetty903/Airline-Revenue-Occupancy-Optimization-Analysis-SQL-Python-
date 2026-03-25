@@ -1,4 +1,5 @@
 📊 Airline Revenue & Occupancy Optimization Analysis
+
 🚀 Project Overview
 
 This project analyzes airline operational and booking data to uncover insights related to revenue performance, occupancy (load factor), and pricing strategies.
@@ -6,11 +7,13 @@ This project analyzes airline operational and booking data to uncover insights r
 The goal is to identify opportunities for revenue optimization, better fleet utilization, and demand-driven pricing decisions in the airline industry.
 
 🎯 Objectives
+
 Analyze total revenue and average ticket value across aircraft
 Evaluate occupancy rates (load factor) and aircraft utilization
 Understand the impact of pricing on demand
 Identify high-performing vs underperforming aircraft
 Simulate revenue impact of a 10% increase in occupancy
+
 ## 🛠️ Tech Stack
 
 **Used in this project**
@@ -58,5 +61,7 @@ Simulate revenue impact of a 10% increase in occupancy
 A 10% increase in occupancy rate results in significant revenue growth:
 
 •	SU9: +₹500M+ 
+
 •	763: +₹430M+ 
+
 •	773: +₹340M+ 
