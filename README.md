@@ -1,2 +1,56 @@
-# Airline-Revenue-Occupancy-Optimization-Analysis-SQL-Python-
-Analyzed airline operational and booking data using SQL and Python to evaluate revenue, occupancy (load factor), and pricing strategies, uncovering opportunities to optimize fleet utilization and increase revenue through demand-driven insights.
+📊 Airline Revenue & Occupancy Optimization Analysis (SQL + Python)
+🚀 Project Overview
+
+This project analyzes airline operational and booking data to uncover insights related to revenue performance, occupancy (load factor), and pricing strategies.
+
+The goal is to identify opportunities for revenue optimization, better fleet utilization, and demand-driven pricing decisions in the airline industry.
+
+🎯 Objectives
+Analyze total revenue and average ticket value across aircraft
+Evaluate occupancy rates (load factor) and aircraft utilization
+Understand the impact of pricing on demand
+Identify high-performing vs underperforming aircraft
+Simulate revenue impact of a 10% increase in occupancy
+🛠️ Tech Stack
+
+📦 Airline-Data-Analysis
+ ┣ 📜 Data Analysis -Airlines.ipynb
+ ┣ 📄 README.md
+ ┣ 📄 Report (Airlines).pdf
+📊 Key Metrics
+Total Revenue
+Average Revenue per Ticket
+Occupancy Rate (Load Factor)
+Revenue per Aircraft
+Fare Class Pricing (Business vs Economy)
+🔍 Key Insights
+✈️ Revenue & Performance
+SU9 aircraft generated the highest revenue (~₹5.1B) driven by high ticket volume and competitive pricing
+Aircraft 319 had the highest average ticket value (~₹51K) but lower demand
+📉 Occupancy (Load Factor)
+Highest occupancy: 773 (~66%)
+Lowest occupancy: CR2 (~43%)
+Low occupancy aircraft indicate underutilization and pricing inefficiencies
+💰 Pricing Strategy
+Lower ticket prices → higher demand and occupancy
+Premium pricing → higher revenue per ticket but lower volume
+Volume-based strategy outperformed premium pricing
+📈 Demand Trends
+Rapid booking growth followed by stabilization phase
+Secondary demand increase indicates seasonality / peak travel periods
+🚀 Revenue Simulation
+
+A 10% increase in occupancy rate results in significant revenue growth:
+
+SU9: +₹500M+
+763: +₹430M+
+773: +₹340M+
+
+👉 Even small improvements in load factor can drive massive revenue gains
+
+💡 Business Recommendations
+Implement dynamic pricing strategies based on demand trends
+Improve occupancy for low-performing aircraft (CR2, CN1)
+Optimize deployment of high-capacity aircraft (773, 763)
+Focus on load factor improvement as primary revenue driver
+Maintain balance between competitive economy pricing and premium business fares
