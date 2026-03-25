@@ -1,4 +1,4 @@
-📊 Airline Revenue & Occupancy Optimization Analysis (SQL + Python)
+📊 Airline Revenue & Occupancy Optimization Analysis
 🚀 Project Overview
 
 This project analyzes airline operational and booking data to uncover insights related to revenue performance, occupancy (load factor), and pricing strategies.
@@ -12,6 +12,7 @@ Understand the impact of pricing on demand
 Identify high-performing vs underperforming aircraft
 Simulate revenue impact of a 10% increase in occupancy
 🛠️ Tech Stack
+
 
 📦 Airline-Data-Analysis
  ┣ 📜 Data Analysis -Airlines.ipynb
