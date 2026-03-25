@@ -19,10 +19,6 @@ Simulate revenue impact of a 10% increase in occupancy
 - ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 - ![Jupyter Notebook](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-📦 Airline-Data-Analysis
- ┣ 📜 Data Analysis -Airlines.ipynb
- ┣ 📄 README.md
- ┣ 📄 Report (Airlines).pdf
 📊 Key Metrics
 Total Revenue
 Average Revenue per Ticket
