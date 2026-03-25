@@ -20,6 +20,7 @@ Simulate revenue impact of a 10% increase in occupancy
 - ![Jupyter Notebook](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 📊 Key Metrics
+
 Total Revenue
 Average Revenue per Ticket
 Occupancy Rate (Load Factor)
