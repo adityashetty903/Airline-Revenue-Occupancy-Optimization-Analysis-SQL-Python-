@@ -19,41 +19,30 @@ Simulate revenue impact of a 10% increase in occupancy
 - ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 - ![Jupyter Notebook](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-📊 Key Metrics
+📊 Key Metrics 
+•	Total Revenue 
+•	Average Revenue per Ticket Occupancy Rate (Load Factor)
+•	Revenue per Aircraft 
+•	Fare Class Pricing (Business vs Economy) 
 
-Total Revenue
-Average Revenue per Ticket
-Occupancy Rate (Load Factor)
-Revenue per Aircraft
-Fare Class Pricing (Business vs Economy)
 🔍 Key Insights
 ✈️ Revenue & Performance
-SU9 aircraft generated the highest revenue (~₹5.1B) driven by high ticket volume and competitive pricing
-Aircraft 319 had the highest average ticket value (~₹51K) but lower demand
+•	SU9 aircraft generated the highest revenue (~₹5.1B) driven by high ticket volume and competitive pricing 
+•	Aircraft 319 had the highest average ticket value (~₹51K) but lower demand 
 📉 Occupancy (Load Factor)
-Highest occupancy: 773 (~66%)
-Lowest occupancy: CR2 (~43%)
-Low occupancy aircraft indicate underutilization and pricing inefficiencies
+•	Highest occupancy: 773 (~66%) 
+•	Lowest occupancy: CR2 (~43%) 
+•	Low occupancy aircraft indicate underutilization and pricing inefficiencies 
+
 💰 Pricing Strategy
-Lower ticket prices → higher demand and occupancy
-Premium pricing → higher revenue per ticket but lower volume
-Volume-based strategy outperformed premium pricing
+•	Lower ticket prices → higher demand and occupancy 
+•	Premium pricing → higher revenue per ticket but lower volume 
+•	Volume-based strategy outperformed premium pricing 
 📈 Demand Trends
-Rapid booking growth followed by stabilization phase
-Secondary demand increase indicates seasonality / peak travel periods
+•	Rapid booking growth followed by a stabilization phase 
+•	Secondary demand increase indicates seasonality/peak travel periods 
 🚀 Revenue Simulation
-
 A 10% increase in occupancy rate results in significant revenue growth:
-
-SU9: +₹500M+
-763: +₹430M+
-773: +₹340M+
-
-👉 Even small improvements in load factor can drive massive revenue gains
-
-💡 Business Recommendations
-Implement dynamic pricing strategies based on demand trends
-Improve occupancy for low-performing aircraft (CR2, CN1)
-Optimize deployment of high-capacity aircraft (773, 763)
-Focus on load factor improvement as primary revenue driver
-Maintain balance between competitive economy pricing and premium business fares
+•	SU9: +₹500M+ 
+•	763: +₹430M+ 
+•	773: +₹340M+ 
